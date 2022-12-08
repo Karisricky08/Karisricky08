@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Karisricky08
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Djorn.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ @karisricky 
+Engineer By Trade ™️ 
 
-<!---
-Karisricky08/Karisricky08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
